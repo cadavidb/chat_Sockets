@@ -7,5 +7,4 @@ Recuerden que deben de reconstruir los módulos de node con el comando
 ```
 npm install
 ```
-pueden probar el deploy en heroku 
-https://chatupc.herokuapp.com/
+pueden probar el deploy del chat : https://chatupc.herokuapp.com/
